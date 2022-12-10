@@ -1,7 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
-import java.util.concurrent.ScheduledExecutorService;
 
 public class Valid_Parentheses {
     public static boolean isValid(String s) {
