@@ -1,7 +1,4 @@
-import java.util.HashSet;
-import java.util.Set;
-
-public class Linked_Link_Cycle {
+public class Linked_List_Cycle {
     public boolean hasCycle(ListNode head) {
         if (head == null) return false;
         ListNode slow = head; ListNode fast = head.next;
